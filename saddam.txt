@@ -1,5 +1,3 @@
-saddam working in amazon
-Now iam editing this in github repo "to check conflict".
-branch learings
-updating in github paltform
-again updating in github platform
+feature branch
+
+lets check the merge concept
